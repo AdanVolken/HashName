@@ -1,7 +1,7 @@
 import os
 import hashlib
 
-# ruta_base = "C:\Program Files (x86)"
+ruta_base = "C:\Program Files (x86)"
 
 carpetas = os.listdir(ruta_base)
 
